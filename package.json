@@ -1,0 +1,19 @@
+{
+  "name": "test-catching-error-from-fs-create-read-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leahciMic/test-catching-error-from-fs-createReadStream.git"
+  },
+  "author": "Michael Leaney <leahcimic@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leahciMic/test-catching-error-from-fs-createReadStream/issues"
+  },
+  "homepage": "https://github.com/leahciMic/test-catching-error-from-fs-createReadStream#readme"
+}
